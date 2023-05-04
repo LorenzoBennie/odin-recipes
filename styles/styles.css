@@ -1,0 +1,43 @@
+/* styles.css sheet for recipe website */
+
+/* common font used throughout website */
+body {
+    font-family: Arial, Verdana, Sans-serif;
+}
+
+/* background colour for all pages */
+
+html {
+    background-color: rgb(227,39,39) ;
+}
+
+/* index page styles */
+
+button {
+    background: rgb(39,79,227);
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
+
+/* recipe page styles*/
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+div,
+.intro {
+    text-align: center;
+}
+
+.intro {
+    color: white;
+    background-color: rgba(89,129,240,0.3);
+    font-weight: bold;
+}
+
+.small_a {
+    height: 500px;
+}
